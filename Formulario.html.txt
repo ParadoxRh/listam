@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    
+  </head>
+
+ 	
+  		<body>
+    
+
+          <h3>Formulario</h3>
+Digite su informacion personal <br />
+          <br/>
+       Nombre completo  <input type="text" placeholder="first and last name" /> <br />	<br/>
+  
+   Numero de telefono <input = "tel"  placeholder = "xxx - xxx - xxxx" /> <br/>
+   <br/>
+   
+   Email <input  type ="test"  placeholder=" Email addres" /> <br/>
+   <br/>
+   
+   Cedula <input type = "number"   />
+  <br/><br/>
+   
+   <input type ="submit" placeholder = "test" />
+  
+  </body>
+   
+  <footer>
+  
+  </footer>
+</html>
